@@ -1,0 +1,5 @@
+pydantic
+simplejson
+requests
+python-dotenv
+pytz
